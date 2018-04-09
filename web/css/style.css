@@ -332,7 +332,6 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, li, form, input, textarea {
     border:1px solid #ccc;
 }
 
-//for image rotation
 .morph {
   -webkit-transition: all 0.5s ease;
      -moz-transition: all 0.5s ease;
